@@ -125,7 +125,7 @@ const members = [
     },
     {
         name: "Rango LF",
-        website: "https://rango-lf.github.io/rango-lf",
+        website: "https://rango-lf.vercel.app/",
         program: "Mech",
         designation: "BASc",
         year: "8-25",
